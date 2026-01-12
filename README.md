@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Sourabh Kumar 👋
 
-<!--
-**Sourabh2303/Sourabh2303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst with hands-on experience in Power BI, SQL, Python, and data visualization.  
+I enjoy transforming raw data into meaningful insights that support business and people decisions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 What I Work On
+- Data analysis & visualization using **Power BI**
+- Writing optimized queries using **SQL**
+- Data cleaning and analysis using **Python (Pandas, NumPy)**
+- Building analytics dashboards for business and HR use cases
+
+---
+
+## 📊 Featured Projects
+🔹 **HR Analytics Dashboard (Power BI)**  
+- Analyzed employee attrition and workforce trends  
+- Identified high-risk age groups and job roles  
+- Built interactive dashboards using DAX  
+👉 Repository: https://github.com/Sourabh2303/HR-Analytics-Dashboard
+
+*(More projects coming soon)*
+
+---
+
+## 🛠 Tech Stack
+**Languages & Tools:**  
+Power BI • SQL • Python • Pandas • Excel • DAX • Git • GitHub
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: *(add your LinkedIn link here)*
+- Email: *(optional)*
+
+⭐ Always learning and open to opportunities in **Data Analytics / Business Intelligence**
