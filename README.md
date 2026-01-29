@@ -31,7 +31,7 @@ Power BI • SQL • Python • Pandas • Excel • DAX • Git • GitHub
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: *(add your LinkedIn link here)*
-- Email: *(optional)*
+- LinkedIn: *www.linkedin.com/in/sourabh-kumar-s23k*
+- Email: *sourabh.singhrj@gmail.com*
 
 ⭐ Always learning and open to opportunities in **Data Analytics / Business Intelligence**
